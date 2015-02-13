@@ -35,7 +35,7 @@ function nc_notification_display() {
 
 				<section id="nc-notification-area" class="small-12 columns" role="region">
 					<div class="nc-notification-area">					
-						<a id="remove-notification" class="remove-notification" href="" rel="<?php echo esc_attr( $notification->ID ); ?>"><?php _e('X', 'nc-notification-area'); ?></a>
+						<a id="remove-notification" class="remove-notification" href="" rel="<?php echo esc_attr( $notification->ID ); ?>"><?php _e('X', 'nc-notification-center'); ?></a>
 						
 						<h6><?php echo esc_html( get_the_title( $notification->ID ) ); ?></h6>
 
