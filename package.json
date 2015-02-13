@@ -1,0 +1,16 @@
+{
+  "name": "nc-notification-center",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-contrib-uglify": "~0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Blog Inglês na Rede // Renato Alves",
+  "homepage": "http://www.inglesnarede.com.br"
+}

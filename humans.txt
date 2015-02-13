@@ -1,0 +1,12 @@
+/* TEAM */
+
+Name: Renato Alves
+Title: Lead Developer
+Facebook: renatonascalves
+	
+/* THANKS */
+Name: espellcaste
+
+/* META */
+Updated: 2015/01/10
+See: http://humanstxt.org/
