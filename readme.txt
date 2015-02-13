@@ -1,8 +1,15 @@
-## NC Notification Center Plugin for WordPress
+=== NC Notification Center ===
+Author URI: http://ralv.es
+Plugin URI: http://inglesnarede.com.br
+Author: Renato Alves // Blog Inglês na Rede
+Donate link: 
+Tags: notice, notification, simple, note, announce, announcement
+Requires at least: 3.8
+Tested up to: 4.1
 
-This plugin is not ready for a live site yet. =)
+The NC Notification Center is a fork of the Simpe Notices plugin from Pippin Williamson.
 
-&nbsp;
+It adds a notication center using custom post type. The notifications are displayed for logged in and non logged in users.
 
 == Description ==
 
@@ -42,7 +49,3 @@ Also, after clicking the close button, the necessary js and css are removed, pre
 Initial release.
 
 == Upgrade Notice ==
-
----
-
-Made with love for [Blog Inglês na Rede](http://inglesnarede.com.br) at Fortaleza, CE - Brazil. :sunny:
