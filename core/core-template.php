@@ -42,7 +42,7 @@ function nc_check_notification_is_read($post_id, $user_id) {
  * 
  * @uses update_user_meta() Update the user medadata
  * @uses get_user_meta() Get the user medatada
- * @param $post_id The post ID
+ * @param int $post_id The post ID
  * @return int The notification id
  */
 function nc_notification_add_to_usermeta($post_id) {
